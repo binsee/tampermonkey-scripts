@@ -17,13 +17,13 @@
 
 用于禁止网站通过opensearch自动向浏览器添加自定义搜索引擎，以避免浏览器出现非常多的自定义搜索引擎。如需允许，请将其域名添加入排除名单，然后重新刷新页面即可。
 
-脚本文件: [ban-auto-add-opensearch.js](./ban-auto-add-opensearch.js)
+脚本文件: [block-auto-add-opensearch.js](./block-auto-add-opensearch.js)
 
 ### 屏蔽html5播放器p2p上传
 
 屏蔽html5播放器使用WebRTC技术进行p2p上传，如斗鱼直播后台上传等。
 
-脚本文件: [ban-html5-p2p.js](./ban-html5-p2p.js)
+脚本文件: [block-html5-p2p.js](./block-html5-p2p.js)
 
 
 
