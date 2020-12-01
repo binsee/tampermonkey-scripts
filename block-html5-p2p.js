@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         屏蔽html5播放器p2p上传
-// @version      0.1
+// @version      0.1.0
 // @description  屏蔽html5播放器使用WebRTC技术进行p2p上传，如斗鱼直播后台上传等
 // @author       binsee
 // @namespace    https://github.com/binsee/tampermonkey-scripts
