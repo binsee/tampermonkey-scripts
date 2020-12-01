@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         修复屏蔽mmstat后天猫弹验证问题
-// @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  屏蔽mmstat域名以躲避数据追踪来保护隐私后，会导致天猫页面出现验证无法正常显示商品列表，此脚本对此问题进行了修复
 // @author       binsee
+// @namespace    https://github.com/binsee/tampermonkey-scripts
 // @match        https://*.tmall.com/*
 // @match        https://*.taobao.com/*
 // @grant        none
