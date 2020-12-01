@@ -11,7 +11,7 @@
 
 屏蔽mmstat域名以躲避数据追踪来保护隐私后，会导致天猫页面出现验证无法正常显示商品列表，此脚本对此问题进行了修复。
 
-脚本文件: 
+脚本文件:
 
 - greasyfork: [修复屏蔽mmstat后天猫弹验证问题](https://greasyfork.org/zh-CN/scripts/417205)
 - github(打开后点RAW获得原始文件url): [fix-tmall-popup-verify.js](./fix-tmall-popup-verify.js)
