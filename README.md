@@ -25,7 +25,7 @@
 
 脚本文件:
 
-- greasyfork: [修复屏蔽mmstat后天猫弹验证问题](https://greasyfork.org/zh-CN/scripts/417205-%E4%BF%AE%E5%A4%8D%E5%B1%8F%E8%94%BDmmstat%E5%90%8E%E5%A4%A9%E7%8C%AB%E5%BC%B9%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98)
+- greasyfork: [修复屏蔽mmstat后淘系站点问题](https://greasyfork.org/zh-CN/scripts/417225-%E4%BF%AE%E5%A4%8D%E5%B1%8F%E8%94%BDmmstat%E5%90%8E%E6%B7%98%E7%B3%BB%E7%AB%99%E7%82%B9%E9%97%AE%E9%A2%98)
 - github(打开后点RAW获得原始文件url): [fix-block-mmstat.js](./fix-block-mmstat.js)
 
 ### 禁止自动添加自定义搜索引擎
