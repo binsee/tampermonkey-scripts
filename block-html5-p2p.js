@@ -1,16 +1,19 @@
 // ==UserScript==
 // @name         屏蔽html5播放器p2p上传
-// @version      0.1.2
+// @version      0.1.3
 // @description  屏蔽html5播放器使用WebRTC技术进行p2p上传，以及防止通过p2p泄露ip，如斗鱼直播后台上传等。需要注意默认屏蔽所有网站html5的p2p功能，需要使用p2p的网站请自行加入排除列表，如网易uu语音、twitch等。嫌麻烦的请勿用。
 // @author       binsee
 // @namespace    https://github.com/binsee/tampermonkey-scripts
 // @supportURL   https://github.com/binsee/tampermonkey-scripts/issues
 // @license      GPL
-// @match        http*://*.douyu.com/*
-// @match        http*://*.qq.com/*
-// @match        http*://*.huya.com/*
-// @match        http*://*/*
+// @match        *://*.douyu.com/*
+// @match        *://*.qq.com/*
+// @match        *://*.huya.com/*
+// @match        *://*/*
 // @exclude      *://*.bilibili.com/*
+// @exclude      *://*.discord.com/*
+// @exclude      *://*.twitch.tv/*
+// @exclude      *://*.ext-twitch.tv/*
 // @grant        none
 // ==/UserScript==
 let HookFlag = false
