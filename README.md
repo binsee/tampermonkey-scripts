@@ -26,7 +26,8 @@
 脚本文件:
 
 - greasyfork: [修复屏蔽mmstat后淘系站点问题](https://greasyfork.org/zh-CN/scripts/417225-%E4%BF%AE%E5%A4%8D%E5%B1%8F%E8%94%BDmmstat%E5%90%8E%E6%B7%98%E7%B3%BB%E7%AB%99%E7%82%B9%E9%97%AE%E9%A2%98)
-- github(打开后点RAW获得原始文件url): [fix-block-mmstat.js](./fix-block-mmstat.js)
+- github(打开后点RAW按钮): [fix-block-mmstat.user.js](./fix-block-mmstat.user.js)
+
 
 ### 禁止自动添加自定义搜索引擎
 
@@ -35,7 +36,7 @@
 脚本文件:
 
 - greasyfork: [禁止自动添加自定义搜索引擎](https://greasyfork.org/zh-CN/scripts/417217-%E7%A6%81%E6%AD%A2%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
-- github(打开后点RAW获得原始文件url): [block-auto-add-opensearch.js](./block-auto-add-opensearch.js)
+- github(打开后点RAW按钮): [block-auto-add-opensearch.user.js](./block-auto-add-opensearch.user.js)
 
 ### 屏蔽html5播放器p2p上传
 
@@ -45,5 +46,5 @@
 脚本文件:
 
 - greasyfork: [屏蔽html5播放器p2p上传](https://greasyfork.org/zh-CN/scripts/417216-%E5%B1%8F%E8%94%BDhtml5%E6%92%AD%E6%94%BE%E5%99%A8p2p%E4%B8%8A%E4%BC%A0)
-- github(打开后点RAW获得原始文件url): [block-html5-p2p.js](./block-html5-p2p.js)
+- github(打开后点RAW按钮): [block-html5-p2p.user.js](./block-html5-p2p.user.js)
 
