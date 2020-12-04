@@ -28,6 +28,14 @@
 - greasyfork: [修复屏蔽mmstat后淘系站点问题](https://greasyfork.org/zh-CN/scripts/417225-%E4%BF%AE%E5%A4%8D%E5%B1%8F%E8%94%BDmmstat%E5%90%8E%E6%B7%98%E7%B3%BB%E7%AB%99%E7%82%B9%E9%97%AE%E9%A2%98)
 - github(打开后点RAW按钮): [fix-block-mmstat.user.js](./fix-block-mmstat.user.js)
 
+### 修复屏蔽wl.jd.com后京东站点问题
+
+屏蔽wl.jd.com域名后，会导致京东站点出现无法正常显示之类的问题，此脚本对此问题进行了修复
+
+脚本文件:
+
+- greasyfork: 
+- github(打开后点RAW按钮): [fix-block-jd-log.user.js](./fix-block-jd-log.user.js)
 
 ### 禁止自动添加自定义搜索引擎
 
