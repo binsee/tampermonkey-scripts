@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         禁止自动添加自定义搜索引擎
-// @version      0.1.1
+// @version      0.1.2
 // @description  用于禁止网站通过opensearch自动向浏览器添加自定义搜索引擎，以避免浏览器出现非常多的自定义搜索引擎。如需允许，请将其域名添加入排除名单，然后重新刷新页面即可。
 // @author       binsee
 // @namespace    https://github.com/binsee/tampermonkey-scripts
 // @supportURL   https://github.com/binsee/tampermonkey-scripts/issues
 // @license      GPL
+// @run-at       document-start
 // @match        *://*/*
 // @exclude      *://*.bilibili.com/*
 // @exclude      *://*.github.com/*
