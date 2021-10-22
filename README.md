@@ -56,3 +56,11 @@
 - greasyfork: [屏蔽html5播放器p2p上传](https://greasyfork.org/zh-CN/scripts/417216-%E5%B1%8F%E8%94%BDhtml5%E6%92%AD%E6%94%BE%E5%99%A8p2p%E4%B8%8A%E4%BC%A0)
 - github(打开后点RAW按钮): [block-html5-p2p.user.js](./block-html5-p2p.user.js)
 
+### 屏蔽弹窗信息
+
+屏蔽网站使用 `alert` 弹出提示框，改用 `console.log` ，以提高页面使用体验。
+
+脚本文件:
+
+- greasyfork: [no alert](https://greasyfork.org/zh-CN/scripts/434311-no-alert)
+- github(打开后点RAW按钮): [no-alert.user.js ](./no-alert.user.js)
